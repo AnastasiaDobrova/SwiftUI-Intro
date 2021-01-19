@@ -13,6 +13,7 @@ struct ContentView: View {
                    Person(name: "Sus", lastName: "Svenson"),
                    Person(name: "Ti", lastName: "Svenson"),]
     
+    
     var body: some View {
         ZStack {
             Color(.gray)
