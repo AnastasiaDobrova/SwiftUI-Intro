@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D74B4C725B6E0F700D5F4AC /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D74B4C625B6E0F700D5F4AC /* Person.swift */; };
 		5DDC781425B6CF4500EFDBA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC781325B6CF4500EFDBA6 /* AppDelegate.swift */; };
 		5DDC781625B6CF4500EFDBA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC781525B6CF4500EFDBA6 /* SceneDelegate.swift */; };
 		5DDC781825B6CF4500EFDBA6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC781725B6CF4500EFDBA6 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D74B4C625B6E0F700D5F4AC /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		5DDC781025B6CF4500EFDBA6 /* SwiftUI-Intro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Intro.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DDC781325B6CF4500EFDBA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5DDC781525B6CF4500EFDBA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				5DDC781325B6CF4500EFDBA6 /* AppDelegate.swift */,
 				5DDC781525B6CF4500EFDBA6 /* SceneDelegate.swift */,
 				5DDC781725B6CF4500EFDBA6 /* ContentView.swift */,
+				5D74B4C625B6E0F700D5F4AC /* Person.swift */,
 				5DDC781925B6CF4C00EFDBA6 /* Assets.xcassets */,
 				5DDC781E25B6CF4C00EFDBA6 /* LaunchScreen.storyboard */,
 				5DDC782125B6CF4C00EFDBA6 /* Info.plist */,
@@ -268,6 +271,7 @@
 			files = (
 				5DDC781425B6CF4500EFDBA6 /* AppDelegate.swift in Sources */,
 				5DDC781625B6CF4500EFDBA6 /* SceneDelegate.swift in Sources */,
+				5D74B4C725B6E0F700D5F4AC /* Person.swift in Sources */,
 				5DDC781825B6CF4500EFDBA6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
